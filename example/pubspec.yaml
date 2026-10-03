@@ -1,10 +1,11 @@
-name: blur_glass
+name: blur_glass_example
 description: A simple blur glass widget easy to use in Flutter.
 version: 1.0.0+1
 homepage: https://github.com/shAdow-XJY/blur_glass
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
+  sdk: ">=3.9.2 <4.0.0"
+  flutter: ">=3.35.0"
 
 dependencies:
   flutter:
